@@ -25,3 +25,4 @@ can be found in the `inc` directory and the account setup can be found
 in the `accounts` directory. Each account must have an entry point file,
 so you can `mutt -F <file>` to load one or another account, or just
 create shell aliases for each account, if you want.
+# muttmc

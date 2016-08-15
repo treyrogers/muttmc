@@ -1,0 +1,11 @@
+# -*- Mode: Muttrc -*-
+# config for the lincoln@gg.rs.gov.br account
+
+source ~/.mutt/inc/base
+source ~/.mutt/inc/colors
+source ~/.mutt/inc/sidebar
+set sidebar_visible = no
+
+source ~/.mutt/accounts/lincoln@gg.rs.gov.br/maildir
+source ~/.mutt/accounts/lincoln@gg.rs.gov.br/ident
+source ~/.mutt/accounts/lincoln@gg.rs.gov.br/smtp
